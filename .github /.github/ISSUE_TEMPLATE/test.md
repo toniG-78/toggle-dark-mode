@@ -1,3 +1,4 @@
+
 ---
 name: BANNER IUBENDA - template issue
 about: Integrazione del banner Iubenda, issue generica
